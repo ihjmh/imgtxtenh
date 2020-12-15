@@ -31,7 +31,9 @@ The procedure for compiling is:
 
     cmake -DCMAKE_BUILD_TYPE=Release ..
     make
-
+    
+#config_error
+   sudo apt-get install libmagickwand-dev 
 
 # REFERENCES
 
